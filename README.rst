@@ -20,7 +20,7 @@ Usage
 
   * The name of an individual session
 
-  * How interested you are in the session.  This should be a number, greater
+  * How interested you are in the session.  This should be a number; larger
     numbers indicate more interest.
 
 * Run it:
